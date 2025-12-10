@@ -1,0 +1,5 @@
+{
+  "name": "FloraManager Inventory",
+  "description": "A comprehensive flower shop management system with automated stock aging, role-based access, and financial reporting.",
+  "requestFramePermissions": []
+}
